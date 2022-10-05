@@ -15,12 +15,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![ss](https://user-images.githubusercontent.com/10114716/194034826-d6e425aa-7983-4334-b1fb-3171f27ecfa4.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/buraksakalli/frontend-mentor-notifications-page)
+
+- Live Site URL: [Vercel](https://frontend-mentor-notifications-page.vercel.app/)
 
 ### Built with
 
@@ -29,4 +30,4 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Vite](https://nextjs.org/) - Frontend tooling
+- [Vite](https://vitejs.dev/) - Frontend tooling
